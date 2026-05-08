@@ -1,0 +1,12 @@
+{
+  "name": "equilibre-scanner",
+  "version": "1.0.0",
+  "description": "Stuck fees forensic scanner for Equilibre Finance on Kava EVM",
+  "main": "scan.js",
+  "scripts": {
+    "scan": "node scan.js"
+  },
+  "dependencies": {
+    "ethers": "5.7.2"
+  }
+}

@@ -1,0 +1,1 @@
+{"name":"hermes-scanner","version":"1.0.0","main":"scan.js","dependencies":{"ethers":"5.7.2"}}
