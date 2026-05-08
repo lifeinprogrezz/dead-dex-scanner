@@ -16,3 +16,7 @@ Both share the same skeleton: a `scan.js` producer that writes a JSON snapshot, 
 
 ## Disclaimer
 Pure research code. The tools never send transactions and never need a private key. Conclusions about recovery paths and dollar values are point-in-time snapshots; verify against current chain state before acting on anything.
+
+## License
+
+MIT — free to use, modify, and distribute. See [`LICENSE`](./LICENSE).
